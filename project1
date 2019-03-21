@@ -1,7 +1,7 @@
 1. Display on LCD a clock (HH-MM-SS)
 2. Each XX time you should save the measurement
 3. You should be able to change the clock
-  - rotaty knots (directions: L,R)
+  - rotaty knobs (directions: L,R)
     - no activity on RK - clock remains on its own pace
     - you touched RK - then HH [are blinking] and you are able to change it (L,R)
                      - after 5 seconds switch to MM
