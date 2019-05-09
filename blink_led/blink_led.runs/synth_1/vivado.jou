@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Thu May  9 12:20:03 2019
+# Process ID: 8288
+# Current directory: C:/Users/student/Desktop/blink_led/blink_led.runs/synth_1
+# Command line: vivado.exe -log blink_led.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source blink_led.tcl
+# Log file: C:/Users/student/Desktop/blink_led/blink_led.runs/synth_1/blink_led.vds
+# Journal file: C:/Users/student/Desktop/blink_led/blink_led.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source blink_led.tcl -notrace
